@@ -113,6 +113,13 @@ We recommend that you install the relevant IDE extensions for each one of these 
 
 We've also set up a git hook to automatically analyze and fix linting errors before your code is committed. If you'd like to disable it or modify its behavior, take a look at the `lint` section in `package.json`.
 
-## Contributers
+## The Jiangren Website.
+The best code bootcamp in Australia
+Visit [The best code bootcamp in Australia: JR Academy](https://jiangren.com.au).
 
+## Australia IT Professional Community
+
+[Sydney JR Academy | Code bootcamp](https://jiangren.com.au/city/sydney).
+[Melbourne JR Academy | Code bootcamp](https://jiangren.com.au/city/melbourne).
+[Brisbane JR Academy | Code bootcamp](https://jiangren.com.au/city/brisbane).
 [JR Academy](https://jiangren.com.au) && [JR Talent](https://jrtalent.com.au)
