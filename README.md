@@ -1,5 +1,7 @@
 # Introduction
 
+This guide is to help [JR Academy](https://jiangren.com.au)'s students to better understand commercial javascript projects.
+
 The JavaScript ecosystem evolves at incredible speed: staying current can feel
 overwhelming. So, instead of you having to stay on top of every new tool,
 feature and technique to hit the headlines, this project aims to understand javascript tools, library and terminology.
@@ -18,7 +20,6 @@ efficient tooling and cleanest project structure.
   - [Debugging](debugging.md)
   - [FAQ](faq.md)
   - [Gotchas](general/gotchas.md)
-  - [Remove](general/remove.md)
   - [Extracting components](components.md)
 - [Testing](testing)
   - [Unit Testing](testing/unit-testing.md)
@@ -112,3 +113,6 @@ We recommend that you install the relevant IDE extensions for each one of these 
 
 We've also set up a git hook to automatically analyze and fix linting errors before your code is committed. If you'd like to disable it or modify its behavior, take a look at the `lint` section in `package.json`.
 
+## Contributers
+
+[JR Academy](https://jiangren.com.au) && [JR Talent](https://jrtalent.com.au)
