@@ -12,37 +12,17 @@ efficient tooling and cleanest project structure.
 
 ## Table of Contents
 
-- [General](general)
+  - [Networking](networking.md)
+  - [Security](security.md)
   - [**CLI Commands**](commands.md)
   - [Tool Configuration](files.md)
   - [Server Configurations](general/server-configs.md)
+  - [Database: SQL vs NoSQL](database.md)
   - [Deployment](deployment.md) _(currently Heroku and AWS S3 specific)_
   - [Debugging](debugging.md)
   - [FAQ](faq.md)
   - [Gotchas](general/gotchas.md)
   - [Extracting components](components.md)
-- [Testing](testing)
-  - [Unit Testing](testing/unit-testing.md)
-  - [Component Testing](testing/component-testing.md)
-  - [Remote Testing](testing/remote-testing.md)
-- [Styling (CSS)](css/README.md)
-  - [Next Generation CSS](css/README.md#next-generation-css)
-  - [CSS Support](css/README.md#css-we-support)
-  - [styled-components](css/README.md#styled-components)
-  - [Stylesheet](css/README.md#stylesheet)
-  - [CSS Modules](css/README.md#css-modules)
-  - [Sass](css/README.md#sass)
-  - [LESS](css/README.md#less)
-- [JS](js)
-  - [Redux](js/redux.md)
-  - [Immer](js/immer.md)
-  - [reselect](js/reselect.md)
-  - [redux-saga](js/redux-saga.md)
-  - [i18n](js/i18n.md)
-  - [routing](js/routing.md)
-- [Maintenance](maintenance)
-  - [Dependency Update](maintenance/dependency.md)
-- [Forks](forks)
 
 
 Opening an issue is the fastest way to draw the attention of the team, but please make it a point to read the docs and contribution instructions before you do. The issues section is specifically used for pointing out defects and suggesting enhancements. If you have a question about one of the tools please refer to StackOverflow instead.
