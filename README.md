@@ -14,6 +14,8 @@ efficient tooling and cleanest project structure.
 
   - [Networking](networking.md)
   - [Security](security.md)
+  - [Scaling](scaling.md)
+  - [API Design-example](api-design.md)
   - [**CLI Commands**](commands.md)
   - [Tool Configuration](files.md)
   - [Server Configurations](general/server-configs.md)
